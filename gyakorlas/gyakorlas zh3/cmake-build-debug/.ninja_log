@@ -1,0 +1,15 @@
+# ninja log v5
+1	267	7556988447256070	CMakeFiles/gyakorlas_zh3.dir/masodik/dios.cpp.obj	5274e0c0f9cea708
+2	79	7556128530407446	CMakeFiles/gyakorlas_zh3.dir/main.cpp.obj	9a0fab10732ebccf
+2	335	7556997762539188	CMakeFiles/gyakorlas_zh3.dir/harmadik/adam.cpp.obj	c02a4ac8228a581c
+5	312	7556143354590353	CMakeFiles/gyakorlas_zh3.dir/elso/csoma.cpp.obj	98736bca03bb1678
+335	452	7556997763676708	gyakorlas_zh3.exe	2fbddefd153438ed
+6	855	7557014305048746	CMakeFiles/gyakorlas_zh3.dir/harmadik/adam.cpp.obj	c02a4ac8228a581c
+2	899	7557014305492829	CMakeFiles/gyakorlas_zh3.dir/negyedik/gyula.cpp.obj	74ac94038916744c
+899	1127	7557014307737140	gyakorlas_zh3.exe	9f7d8d5a47e5a348
+2	465	7557014962521225	CMakeFiles/gyakorlas_zh3.dir/negyedik/gyula.cpp.obj	74ac94038916744c
+465	596	7557014963799622	gyakorlas_zh3.exe	9f7d8d5a47e5a348
+2	432	7557016985594863	CMakeFiles/gyakorlas_zh3.dir/negyedik/gyula.cpp.obj	74ac94038916744c
+432	558	7557016986813865	gyakorlas_zh3.exe	9f7d8d5a47e5a348
+2	427	7557017131432909	CMakeFiles/gyakorlas_zh3.dir/negyedik/gyula.cpp.obj	74ac94038916744c
+428	547	7557017132599285	gyakorlas_zh3.exe	9f7d8d5a47e5a348

@@ -1,0 +1,3 @@
+C:/Users/Albert/CLionProjects/C++/hazi5/cmake-build-debug/CMakeFiles/hazi5.dir
+C:/Users/Albert/CLionProjects/C++/hazi5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Albert/CLionProjects/C++/hazi5/cmake-build-debug/CMakeFiles/rebuild_cache.dir

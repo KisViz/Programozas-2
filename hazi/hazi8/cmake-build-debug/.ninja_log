@@ -1,0 +1,15 @@
+# ninja log v5
+4	845	7535420058985009	CMakeFiles/hazi8.dir/main.cpp.obj	40e0b6a2b82a4ed1
+847	1182	7535420062220756	hazi8.exe	172d4241f5f25b46
+8	1012	7540827695609863	build.ninja	56639b6fbd824e97
+8	675	7540836921928085	CMakeFiles/hazi8.dir/feladat.cpp.obj	1b6bbc7a873c008d
+2	683	7540836922002103	CMakeFiles/hazi8.dir/main.cpp.obj	40e0b6a2b82a4ed1
+2	305	7540838275841753	CMakeFiles/hazi8.dir/feladat.cpp.obj	1b6bbc7a873c008d
+2	91	7540838577770810	CMakeFiles/hazi8.dir/main.cpp.obj	40e0b6a2b82a4ed1
+91	235	7540838579156740	hazi8.exe	95c38ad493eecbfa
+2	285	7540840603433289	CMakeFiles/hazi8.dir/feladat.cpp.obj	1b6bbc7a873c008d
+286	409	7540840604626789	hazi8.exe	95c38ad493eecbfa
+2	308	7540843812165549	CMakeFiles/hazi8.dir/feladat.cpp.obj	1b6bbc7a873c008d
+309	453	7540843813565553	hazi8.exe	95c38ad493eecbfa
+2	307	7540845581228101	CMakeFiles/hazi8.dir/feladat.cpp.obj	1b6bbc7a873c008d
+308	449	7540845582597491	hazi8.exe	95c38ad493eecbfa
